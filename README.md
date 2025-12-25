@@ -72,5 +72,5 @@ The application uses `chat_conversations_dataset.csv`, which contains anonymized
 https://customer-chat-and-sentiment-analysis-dashboard-28fyfrcstspagto.streamlit.app/
 
 ## Developer
-## AKSHAT KAPOOR  
+## AYUSHI SINGHAL
 ## (AI ENGINEER)
