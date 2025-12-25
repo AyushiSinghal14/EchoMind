@@ -1,0 +1,819 @@
+conversation_id,product,issue_type,issue_description,resolved,customer_sentiment,customer_rating,num_turns,full_conversation
+1,Fitness Tracker Band,battery_drain,battery drains too quickly,False,negative,2,7,"customer: Hi, I'm having issues with my Fitness Tracker Band. The battery drains too quickly.
+ai_assistant: I'll need some more information to assist you better.
+customer: Okay, I'll try that now.
+ai_assistant: Please hold on while I find the best solution for you.
+customer: This is frustrating. Nothing seems to work.
+ai_assistant: Please hold on while I find the best solution for you.
+customer: This didn't help. I'm still having the same issue."
+2,SmartWatch Pro X1,battery_drain,battery life is poor,True,positive,5,5,"customer: Hi, I'm having issues with my SmartWatch Pro X1. The battery life is poor.
+ai_assistant: Thank you for reaching out! I'll guide you through the solution step by step.
+customer: This is frustrating. Nothing seems to work.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Great, it's working now. Thanks for your help!"
+3,Smart Home Hub,performance,overheating issues,False,negative,2,5,"customer: Hi, I'm having issues with my Smart Home Hub. The overheating issues.
+ai_assistant: Let me investigate this further.
+customer: This is frustrating. Nothing seems to work.
+ai_assistant: I appreciate your patience. This is a common issue with an easy fix.
+customer: Not satisfied with the solution provided."
+4,Wireless Earbuds Z2,connectivity,pairing issues with phone,True,positive,4,11,"customer: Hi, I'm having issues with my Wireless Earbuds Z2. The pairing issues with phone.
+ai_assistant: I understand your concern. Let me help you resolve this right away.
+customer: That makes sense, let me check.
+ai_assistant: Thank you for reaching out! I'll guide you through the solution step by step.
+customer: Yes, I can see some improvement.
+ai_assistant: I understand your concern. Let me help you resolve this right away.
+customer: I tried that but it didn't work.
+ai_assistant: Great question! I have the perfect solution for you.
+customer: Yes, I can see some improvement.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Perfect! I appreciate your assistance."
+5,SmartWatch Pro X1,performance,overheating issues,False,negative,1,9,"customer: Hi, I'm having issues with my SmartWatch Pro X1. The overheating issues.
+ai_assistant: I'll need some more information to assist you better.
+customer: This is frustrating. Nothing seems to work.
+ai_assistant: Please hold on while I find the best solution for you.
+customer: I tried that but it didn't work.
+ai_assistant: I'll need some more information to assist you better.
+customer: That makes sense, let me check.
+ai_assistant: Please hold on while I find the best solution for you.
+customer: This didn't help. I'm still having the same issue."
+6,Smart Home Hub,software_bug,system error messages,True,positive,4,9,"customer: Hi, I'm having issues with my Smart Home Hub. The system error messages.
+ai_assistant: Thank you for reaching out! I'll guide you through the solution step by step.
+customer: That makes sense, let me check.
+ai_assistant: Thank you for reaching out! I'll guide you through the solution step by step.
+customer: Okay, I'll try that now.
+ai_assistant: I understand your concern. Let me help you resolve this right away.
+customer: This is frustrating. Nothing seems to work.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Great, it's working now. Thanks for your help!"
+7,4K Camera Drone,connectivity,bluetooth keeps disconnecting,True,positive,5,9,"customer: Hi, I'm having issues with my 4K Camera Drone. The bluetooth keeps disconnecting.
+ai_assistant: Thank you for reaching out! I'll guide you through the solution step by step.
+customer: This is frustrating. Nothing seems to work.
+ai_assistant: Thank you for reaching out! I'll guide you through the solution step by step.
+customer: I tried that but it didn't work.
+ai_assistant: I'll need some more information to assist you better.
+customer: I tried that but it didn't work.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Perfect! I appreciate your assistance."
+8,Laptop UltraBook 15,battery_drain,battery life is poor,False,negative,1,9,"customer: Hi, I'm having issues with my Laptop UltraBook 15. The battery life is poor.
+ai_assistant: I'll need some more information to assist you better.
+customer: This is frustrating. Nothing seems to work.
+ai_assistant: Great question! I have the perfect solution for you.
+customer: I'm still experiencing the same problem.
+ai_assistant: Great question! I have the perfect solution for you.
+customer: Okay, I'll try that now.
+ai_assistant: I understand your concern. Let me help you resolve this right away.
+customer: I'm disappointed. The problem persists."
+9,Fitness Tracker Band,performance,overheating issues,False,negative,1,11,"customer: Hi, I'm having issues with my Fitness Tracker Band. The overheating issues.
+ai_assistant: I don't have enough information to help with this.
+customer: That makes sense, let me check.
+ai_assistant: I'll need some more information to assist you better.
+customer: Okay, I'll try that now.
+ai_assistant: Great question! I have the perfect solution for you.
+customer: I tried that but it didn't work.
+ai_assistant: I see the issue. Let me check our troubleshooting guide.
+customer: I tried that but it didn't work.
+ai_assistant: Let me investigate this further.
+customer: This is unacceptable. The issue is not resolved."
+10,4K Camera Drone,battery_drain,battery percentage drops fast,True,positive,5,11,"customer: Hi, I'm having issues with my 4K Camera Drone. The battery percentage drops fast.
+ai_assistant: I appreciate your patience. This is a common issue with an easy fix.
+customer: Yes, I can see some improvement.
+ai_assistant: I see the issue. Let me check our troubleshooting guide.
+customer: This is frustrating. Nothing seems to work.
+ai_assistant: Please hold on while I find the best solution for you.
+customer: This is frustrating. Nothing seems to work.
+ai_assistant: I understand your concern. Let me help you resolve this right away.
+customer: This is frustrating. Nothing seems to work.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Thank you! That worked perfectly!"
+11,Laptop UltraBook 15,hardware_defect,buttons not responding,True,positive,4,9,"customer: Hi, I'm having issues with my Laptop UltraBook 15. The buttons not responding.
+ai_assistant: Thank you for reaching out! I'll guide you through the solution step by step.
+customer: Yes, I can see some improvement.
+ai_assistant: Please hold on while I find the best solution for you.
+customer: This is frustrating. Nothing seems to work.
+ai_assistant: I understand your concern. Let me help you resolve this right away.
+customer: This is frustrating. Nothing seems to work.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Great, it's working now. Thanks for your help!"
+12,Laptop UltraBook 15,connectivity,won't connect to wifi,True,positive,4,11,"customer: Hi, I'm having issues with my Laptop UltraBook 15. The won't connect to wifi.
+ai_assistant: I understand your concern. Let me help you resolve this right away.
+customer: I tried that but it didn't work.
+ai_assistant: Thank you for reaching out! I'll guide you through the solution step by step.
+customer: That makes sense, let me check.
+ai_assistant: I'll need some more information to assist you better.
+customer: I tried that but it didn't work.
+ai_assistant: I'll need some more information to assist you better.
+customer: Yes, I can see some improvement.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Thank you! That worked perfectly!"
+13,Fitness Tracker Band,hardware_defect,screen is flickering,False,negative,2,7,"customer: Hi, I'm having issues with my Fitness Tracker Band. The screen is flickering.
+ai_assistant: Let me investigate this further.
+customer: This is frustrating. Nothing seems to work.
+ai_assistant: Great question! I have the perfect solution for you.
+customer: Yes, I can see some improvement.
+ai_assistant: Let me investigate this further.
+customer: This is unacceptable. The issue is not resolved."
+14,Wireless Earbuds Z2,performance,lag during operation,False,negative,1,11,"customer: Hi, I'm having issues with my Wireless Earbuds Z2. The lag during operation.
+ai_assistant: This might be a hardware issue. You may need to contact support.
+customer: I'm still experiencing the same problem.
+ai_assistant: Great question! I have the perfect solution for you.
+customer: I tried that but it didn't work.
+ai_assistant: I'll need some more information to assist you better.
+customer: Okay, I'll try that now.
+ai_assistant: Please hold on while I find the best solution for you.
+customer: That makes sense, let me check.
+ai_assistant: I see the issue. Let me check our troubleshooting guide.
+customer: I'm disappointed. The problem persists."
+15,SmartWatch Pro X1,battery_drain,battery drains too quickly,True,positive,4,5,"customer: Hi, I'm having issues with my SmartWatch Pro X1. The battery drains too quickly.
+ai_assistant: I appreciate your patience. This is a common issue with an easy fix.
+customer: I tried that but it didn't work.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Excellent support! Problem solved."
+16,Fitness Tracker Band,hardware_defect,buttons not responding,True,positive,5,11,"customer: Hi, I'm having issues with my Fitness Tracker Band. The buttons not responding.
+ai_assistant: Thank you for reaching out! I'll guide you through the solution step by step.
+customer: I'm still experiencing the same problem.
+ai_assistant: I appreciate your patience. This is a common issue with an easy fix.
+customer: Okay, I'll try that now.
+ai_assistant: Please hold on while I find the best solution for you.
+customer: I tried that but it didn't work.
+ai_assistant: I appreciate your patience. This is a common issue with an easy fix.
+customer: That makes sense, let me check.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Perfect! I appreciate your assistance."
+17,Smart Home Hub,battery_drain,battery drains too quickly,True,positive,5,9,"customer: Hi, I'm having issues with my Smart Home Hub. The battery drains too quickly.
+ai_assistant: I understand your concern. Let me help you resolve this right away.
+customer: Okay, I'll try that now.
+ai_assistant: I'll need some more information to assist you better.
+customer: Okay, I'll try that now.
+ai_assistant: Great question! I have the perfect solution for you.
+customer: Okay, I'll try that now.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Great, it's working now. Thanks for your help!"
+18,Laptop UltraBook 15,hardware_defect,buttons not responding,False,negative,1,5,"customer: Hi, I'm having issues with my Laptop UltraBook 15. The buttons not responding.
+ai_assistant: That's unusual. I haven't encountered this before.
+customer: Yes, I can see some improvement.
+ai_assistant: Please hold on while I find the best solution for you.
+customer: This didn't help. I'm still having the same issue."
+19,SmartWatch Pro X1,connectivity,bluetooth keeps disconnecting,True,positive,5,11,"customer: Hi, I'm having issues with my SmartWatch Pro X1. The bluetooth keeps disconnecting.
+ai_assistant: Thank you for reaching out! I'll guide you through the solution step by step.
+customer: I'm still experiencing the same problem.
+ai_assistant: I see the issue. Let me check our troubleshooting guide.
+customer: Okay, I'll try that now.
+ai_assistant: I appreciate your patience. This is a common issue with an easy fix.
+customer: I tried that but it didn't work.
+ai_assistant: I appreciate your patience. This is a common issue with an easy fix.
+customer: That makes sense, let me check.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Excellent support! Problem solved."
+20,Smart Home Hub,performance,processing delay,True,positive,4,9,"customer: Hi, I'm having issues with my Smart Home Hub. The processing delay.
+ai_assistant: Thank you for reaching out! I'll guide you through the solution step by step.
+customer: I tried that but it didn't work.
+ai_assistant: I see the issue. Let me check our troubleshooting guide.
+customer: This is frustrating. Nothing seems to work.
+ai_assistant: Thank you for reaching out! I'll guide you through the solution step by step.
+customer: I tried that but it didn't work.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Perfect! I appreciate your assistance."
+21,4K Camera Drone,performance,lag during operation,True,positive,4,5,"customer: Hi, I'm having issues with my 4K Camera Drone. The lag during operation.
+ai_assistant: Thank you for reaching out! I'll guide you through the solution step by step.
+customer: I tried that but it didn't work.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Great, it's working now. Thanks for your help!"
+22,Smart Home Hub,battery_drain,battery life is poor,True,positive,5,5,"customer: Hi, I'm having issues with my Smart Home Hub. The battery life is poor.
+ai_assistant: I understand your concern. Let me help you resolve this right away.
+customer: I'm still experiencing the same problem.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Excellent support! Problem solved."
+23,Wireless Earbuds Z2,software_bug,software freezes,True,positive,4,7,"customer: Hi, I'm having issues with my Wireless Earbuds Z2. The software freezes.
+ai_assistant: I appreciate your patience. This is a common issue with an easy fix.
+customer: I'm still experiencing the same problem.
+ai_assistant: Thank you for reaching out! I'll guide you through the solution step by step.
+customer: I tried that but it didn't work.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Perfect! I appreciate your assistance."
+24,4K Camera Drone,performance,device is very slow,True,positive,4,7,"customer: Hi, I'm having issues with my 4K Camera Drone. The device is very slow.
+ai_assistant: I appreciate your patience. This is a common issue with an easy fix.
+customer: Okay, I'll try that now.
+ai_assistant: Thank you for reaching out! I'll guide you through the solution step by step.
+customer: I tried that but it didn't work.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Excellent support! Problem solved."
+25,Laptop UltraBook 15,connectivity,network connection unstable,False,negative,1,9,"customer: Hi, I'm having issues with my Laptop UltraBook 15. The network connection unstable.
+ai_assistant: I see the issue. Let me check our troubleshooting guide.
+customer: This is frustrating. Nothing seems to work.
+ai_assistant: I understand your concern. Let me help you resolve this right away.
+customer: This is frustrating. Nothing seems to work.
+ai_assistant: Please hold on while I find the best solution for you.
+customer: Okay, I'll try that now.
+ai_assistant: I understand your concern. Let me help you resolve this right away.
+customer: This didn't help. I'm still having the same issue."
+26,Fitness Tracker Band,performance,lag during operation,True,positive,5,7,"customer: Hi, I'm having issues with my Fitness Tracker Band. The lag during operation.
+ai_assistant: I appreciate your patience. This is a common issue with an easy fix.
+customer: Okay, I'll try that now.
+ai_assistant: I understand your concern. Let me help you resolve this right away.
+customer: Yes, I can see some improvement.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Excellent support! Problem solved."
+27,SmartWatch Pro X1,battery_drain,battery percentage drops fast,False,negative,2,5,"customer: Hi, I'm having issues with my SmartWatch Pro X1. The battery percentage drops fast.
+ai_assistant: I see the issue. Let me check our troubleshooting guide.
+customer: That makes sense, let me check.
+ai_assistant: Let me investigate this further.
+customer: I'm disappointed. The problem persists."
+28,Fitness Tracker Band,hardware_defect,speaker has crackling sound,True,positive,4,5,"customer: Hi, I'm having issues with my Fitness Tracker Band. The speaker has crackling sound.
+ai_assistant: I understand your concern. Let me help you resolve this right away.
+customer: This is frustrating. Nothing seems to work.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Thank you! That worked perfectly!"
+29,Laptop UltraBook 15,performance,lag during operation,True,positive,4,5,"customer: Hi, I'm having issues with my Laptop UltraBook 15. The lag during operation.
+ai_assistant: I appreciate your patience. This is a common issue with an easy fix.
+customer: That makes sense, let me check.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Excellent support! Problem solved."
+30,Wireless Earbuds Z2,connectivity,won't connect to wifi,True,positive,5,11,"customer: Hi, I'm having issues with my Wireless Earbuds Z2. The won't connect to wifi.
+ai_assistant: Thank you for reaching out! I'll guide you through the solution step by step.
+customer: Okay, I'll try that now.
+ai_assistant: Let me investigate this further.
+customer: Okay, I'll try that now.
+ai_assistant: I appreciate your patience. This is a common issue with an easy fix.
+customer: I tried that but it didn't work.
+ai_assistant: Let me investigate this further.
+customer: This is frustrating. Nothing seems to work.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Perfect! I appreciate your assistance."
+31,Fitness Tracker Band,connectivity,pairing issues with phone,True,positive,5,5,"customer: Hi, I'm having issues with my Fitness Tracker Band. The pairing issues with phone.
+ai_assistant: Great question! I have the perfect solution for you.
+customer: I tried that but it didn't work.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Great, it's working now. Thanks for your help!"
+32,Wireless Earbuds Z2,hardware_defect,microphone not working,True,positive,5,7,"customer: Hi, I'm having issues with my Wireless Earbuds Z2. The microphone not working.
+ai_assistant: Thank you for reaching out! I'll guide you through the solution step by step.
+customer: I tried that but it didn't work.
+ai_assistant: I'll need some more information to assist you better.
+customer: I'm still experiencing the same problem.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Excellent support! Problem solved."
+33,SmartWatch Pro X1,software_bug,update failed,True,positive,4,11,"customer: Hi, I'm having issues with my SmartWatch Pro X1. The update failed.
+ai_assistant: I appreciate your patience. This is a common issue with an easy fix.
+customer: I tried that but it didn't work.
+ai_assistant: Please hold on while I find the best solution for you.
+customer: That makes sense, let me check.
+ai_assistant: Let me investigate this further.
+customer: Yes, I can see some improvement.
+ai_assistant: I understand your concern. Let me help you resolve this right away.
+customer: I tried that but it didn't work.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Perfect! I appreciate your assistance."
+34,Laptop UltraBook 15,software_bug,system error messages,True,positive,4,5,"customer: Hi, I'm having issues with my Laptop UltraBook 15. The system error messages.
+ai_assistant: Great question! I have the perfect solution for you.
+customer: Yes, I can see some improvement.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Excellent support! Problem solved."
+35,SmartWatch Pro X1,hardware_defect,screen is flickering,True,positive,5,7,"customer: Hi, I'm having issues with my SmartWatch Pro X1. The screen is flickering.
+ai_assistant: I appreciate your patience. This is a common issue with an easy fix.
+customer: I'm still experiencing the same problem.
+ai_assistant: Please hold on while I find the best solution for you.
+customer: This is frustrating. Nothing seems to work.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Excellent support! Problem solved."
+36,Fitness Tracker Band,battery_drain,device doesn't hold charge,True,positive,5,11,"customer: Hi, I'm having issues with my Fitness Tracker Band. The device doesn't hold charge.
+ai_assistant: I appreciate your patience. This is a common issue with an easy fix.
+customer: I'm still experiencing the same problem.
+ai_assistant: I understand your concern. Let me help you resolve this right away.
+customer: Yes, I can see some improvement.
+ai_assistant: Let me investigate this further.
+customer: Okay, I'll try that now.
+ai_assistant: I appreciate your patience. This is a common issue with an easy fix.
+customer: This is frustrating. Nothing seems to work.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Great, it's working now. Thanks for your help!"
+37,4K Camera Drone,performance,overheating issues,True,positive,4,5,"customer: Hi, I'm having issues with my 4K Camera Drone. The overheating issues.
+ai_assistant: I appreciate your patience. This is a common issue with an easy fix.
+customer: That makes sense, let me check.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Perfect! I appreciate your assistance."
+38,4K Camera Drone,performance,overheating issues,True,positive,5,11,"customer: Hi, I'm having issues with my 4K Camera Drone. The overheating issues.
+ai_assistant: Thank you for reaching out! I'll guide you through the solution step by step.
+customer: Yes, I can see some improvement.
+ai_assistant: Great question! I have the perfect solution for you.
+customer: This is frustrating. Nothing seems to work.
+ai_assistant: Let me investigate this further.
+customer: This is frustrating. Nothing seems to work.
+ai_assistant: Please hold on while I find the best solution for you.
+customer: That makes sense, let me check.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Thank you! That worked perfectly!"
+39,Wireless Earbuds Z2,software_bug,software freezes,False,negative,2,7,"customer: Hi, I'm having issues with my Wireless Earbuds Z2. The software freezes.
+ai_assistant: I see the issue. Let me check our troubleshooting guide.
+customer: I tried that but it didn't work.
+ai_assistant: I'll need some more information to assist you better.
+customer: I'm still experiencing the same problem.
+ai_assistant: Please hold on while I find the best solution for you.
+customer: This is unacceptable. The issue is not resolved."
+40,Fitness Tracker Band,performance,lag during operation,False,negative,2,11,"customer: Hi, I'm having issues with my Fitness Tracker Band. The lag during operation.
+ai_assistant: That's unusual. I haven't encountered this before.
+customer: I'm still experiencing the same problem.
+ai_assistant: I'll need some more information to assist you better.
+customer: Okay, I'll try that now.
+ai_assistant: I see the issue. Let me check our troubleshooting guide.
+customer: I tried that but it didn't work.
+ai_assistant: I appreciate your patience. This is a common issue with an easy fix.
+customer: Okay, I'll try that now.
+ai_assistant: Let me investigate this further.
+customer: This didn't help. I'm still having the same issue."
+41,4K Camera Drone,connectivity,won't connect to wifi,True,positive,5,11,"customer: Hi, I'm having issues with my 4K Camera Drone. The won't connect to wifi.
+ai_assistant: I appreciate your patience. This is a common issue with an easy fix.
+customer: I'm still experiencing the same problem.
+ai_assistant: I appreciate your patience. This is a common issue with an easy fix.
+customer: Yes, I can see some improvement.
+ai_assistant: Great question! I have the perfect solution for you.
+customer: Okay, I'll try that now.
+ai_assistant: Great question! I have the perfect solution for you.
+customer: I'm still experiencing the same problem.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Great, it's working now. Thanks for your help!"
+42,Fitness Tracker Band,software_bug,system error messages,True,positive,5,9,"customer: Hi, I'm having issues with my Fitness Tracker Band. The system error messages.
+ai_assistant: Great question! I have the perfect solution for you.
+customer: I tried that but it didn't work.
+ai_assistant: I understand your concern. Let me help you resolve this right away.
+customer: Okay, I'll try that now.
+ai_assistant: I understand your concern. Let me help you resolve this right away.
+customer: That makes sense, let me check.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Thank you! That worked perfectly!"
+43,Wireless Earbuds Z2,connectivity,bluetooth keeps disconnecting,True,positive,5,7,"customer: Hi, I'm having issues with my Wireless Earbuds Z2. The bluetooth keeps disconnecting.
+ai_assistant: Thank you for reaching out! I'll guide you through the solution step by step.
+customer: I tried that but it didn't work.
+ai_assistant: I appreciate your patience. This is a common issue with an easy fix.
+customer: I'm still experiencing the same problem.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Perfect! I appreciate your assistance."
+44,Smart Home Hub,battery_drain,battery life is poor,False,negative,1,11,"customer: Hi, I'm having issues with my Smart Home Hub. The battery life is poor.
+ai_assistant: I see the issue. Let me check our troubleshooting guide.
+customer: Yes, I can see some improvement.
+ai_assistant: I appreciate your patience. This is a common issue with an easy fix.
+customer: I'm still experiencing the same problem.
+ai_assistant: I see the issue. Let me check our troubleshooting guide.
+customer: That makes sense, let me check.
+ai_assistant: I understand your concern. Let me help you resolve this right away.
+customer: I'm still experiencing the same problem.
+ai_assistant: I appreciate your patience. This is a common issue with an easy fix.
+customer: This is unacceptable. The issue is not resolved."
+45,Wireless Earbuds Z2,software_bug,system error messages,True,positive,4,11,"customer: Hi, I'm having issues with my Wireless Earbuds Z2. The system error messages.
+ai_assistant: I appreciate your patience. This is a common issue with an easy fix.
+customer: This is frustrating. Nothing seems to work.
+ai_assistant: I appreciate your patience. This is a common issue with an easy fix.
+customer: This is frustrating. Nothing seems to work.
+ai_assistant: Let me investigate this further.
+customer: I'm still experiencing the same problem.
+ai_assistant: Let me investigate this further.
+customer: Yes, I can see some improvement.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Perfect! I appreciate your assistance."
+46,4K Camera Drone,performance,device is very slow,True,positive,5,11,"customer: Hi, I'm having issues with my 4K Camera Drone. The device is very slow.
+ai_assistant: Thank you for reaching out! I'll guide you through the solution step by step.
+customer: I'm still experiencing the same problem.
+ai_assistant: Let me investigate this further.
+customer: I tried that but it didn't work.
+ai_assistant: I understand your concern. Let me help you resolve this right away.
+customer: I'm still experiencing the same problem.
+ai_assistant: Thank you for reaching out! I'll guide you through the solution step by step.
+customer: Okay, I'll try that now.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Excellent support! Problem solved."
+47,Laptop UltraBook 15,hardware_defect,microphone not working,False,negative,1,11,"customer: Hi, I'm having issues with my Laptop UltraBook 15. The microphone not working.
+ai_assistant: I'm not sure about that. Maybe try restarting?
+customer: I tried that but it didn't work.
+ai_assistant: Great question! I have the perfect solution for you.
+customer: I tried that but it didn't work.
+ai_assistant: I see the issue. Let me check our troubleshooting guide.
+customer: That makes sense, let me check.
+ai_assistant: I'll need some more information to assist you better.
+customer: This is frustrating. Nothing seems to work.
+ai_assistant: Please hold on while I find the best solution for you.
+customer: This didn't help. I'm still having the same issue."
+48,Wireless Earbuds Z2,connectivity,won't connect to wifi,True,positive,4,7,"customer: Hi, I'm having issues with my Wireless Earbuds Z2. The won't connect to wifi.
+ai_assistant: Thank you for reaching out! I'll guide you through the solution step by step.
+customer: I'm still experiencing the same problem.
+ai_assistant: Please hold on while I find the best solution for you.
+customer: Yes, I can see some improvement.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Perfect! I appreciate your assistance."
+49,Fitness Tracker Band,software_bug,update failed,True,positive,4,5,"customer: Hi, I'm having issues with my Fitness Tracker Band. The update failed.
+ai_assistant: Thank you for reaching out! I'll guide you through the solution step by step.
+customer: That makes sense, let me check.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Thank you! That worked perfectly!"
+50,Laptop UltraBook 15,performance,processing delay,True,positive,5,7,"customer: Hi, I'm having issues with my Laptop UltraBook 15. The processing delay.
+ai_assistant: I understand your concern. Let me help you resolve this right away.
+customer: Yes, I can see some improvement.
+ai_assistant: I'll need some more information to assist you better.
+customer: I tried that but it didn't work.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Thank you! That worked perfectly!"
+51,4K Camera Drone,battery_drain,device doesn't hold charge,True,positive,4,9,"customer: Hi, I'm having issues with my 4K Camera Drone. The device doesn't hold charge.
+ai_assistant: I understand your concern. Let me help you resolve this right away.
+customer: Yes, I can see some improvement.
+ai_assistant: Thank you for reaching out! I'll guide you through the solution step by step.
+customer: I tried that but it didn't work.
+ai_assistant: I appreciate your patience. This is a common issue with an easy fix.
+customer: I'm still experiencing the same problem.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Perfect! I appreciate your assistance."
+52,Laptop UltraBook 15,hardware_defect,buttons not responding,True,positive,4,9,"customer: Hi, I'm having issues with my Laptop UltraBook 15. The buttons not responding.
+ai_assistant: Great question! I have the perfect solution for you.
+customer: I'm still experiencing the same problem.
+ai_assistant: I appreciate your patience. This is a common issue with an easy fix.
+customer: This is frustrating. Nothing seems to work.
+ai_assistant: I understand your concern. Let me help you resolve this right away.
+customer: That makes sense, let me check.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Thank you! That worked perfectly!"
+53,Laptop UltraBook 15,hardware_defect,buttons not responding,False,negative,2,11,"customer: Hi, I'm having issues with my Laptop UltraBook 15. The buttons not responding.
+ai_assistant: This might be a hardware issue. You may need to contact support.
+customer: I tried that but it didn't work.
+ai_assistant: Great question! I have the perfect solution for you.
+customer: That makes sense, let me check.
+ai_assistant: Let me investigate this further.
+customer: I'm still experiencing the same problem.
+ai_assistant: I'll need some more information to assist you better.
+customer: That makes sense, let me check.
+ai_assistant: I understand your concern. Let me help you resolve this right away.
+customer: Not satisfied with the solution provided."
+54,4K Camera Drone,software_bug,app crashes frequently,True,positive,4,7,"customer: Hi, I'm having issues with my 4K Camera Drone. The app crashes frequently.
+ai_assistant: I understand your concern. Let me help you resolve this right away.
+customer: Okay, I'll try that now.
+ai_assistant: I appreciate your patience. This is a common issue with an easy fix.
+customer: I'm still experiencing the same problem.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Perfect! I appreciate your assistance."
+55,Fitness Tracker Band,hardware_defect,speaker has crackling sound,False,negative,1,5,"customer: Hi, I'm having issues with my Fitness Tracker Band. The speaker has crackling sound.
+ai_assistant: I'm not sure about that. Maybe try restarting?
+customer: Okay, I'll try that now.
+ai_assistant: I appreciate your patience. This is a common issue with an easy fix.
+customer: Not satisfied with the solution provided."
+56,Fitness Tracker Band,performance,overheating issues,True,positive,5,9,"customer: Hi, I'm having issues with my Fitness Tracker Band. The overheating issues.
+ai_assistant: Great question! I have the perfect solution for you.
+customer: This is frustrating. Nothing seems to work.
+ai_assistant: Thank you for reaching out! I'll guide you through the solution step by step.
+customer: That makes sense, let me check.
+ai_assistant: Great question! I have the perfect solution for you.
+customer: That makes sense, let me check.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Excellent support! Problem solved."
+57,Wireless Earbuds Z2,battery_drain,battery life is poor,True,positive,5,7,"customer: Hi, I'm having issues with my Wireless Earbuds Z2. The battery life is poor.
+ai_assistant: Thank you for reaching out! I'll guide you through the solution step by step.
+customer: Okay, I'll try that now.
+ai_assistant: Great question! I have the perfect solution for you.
+customer: That makes sense, let me check.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Thank you! That worked perfectly!"
+58,Wireless Earbuds Z2,software_bug,software freezes,True,positive,5,9,"customer: Hi, I'm having issues with my Wireless Earbuds Z2. The software freezes.
+ai_assistant: I understand your concern. Let me help you resolve this right away.
+customer: This is frustrating. Nothing seems to work.
+ai_assistant: Let me investigate this further.
+customer: That makes sense, let me check.
+ai_assistant: I see the issue. Let me check our troubleshooting guide.
+customer: I tried that but it didn't work.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Great, it's working now. Thanks for your help!"
+59,Fitness Tracker Band,hardware_defect,screen is flickering,False,negative,2,9,"customer: Hi, I'm having issues with my Fitness Tracker Band. The screen is flickering.
+ai_assistant: That's unusual. I haven't encountered this before.
+customer: I'm still experiencing the same problem.
+ai_assistant: Great question! I have the perfect solution for you.
+customer: That makes sense, let me check.
+ai_assistant: Let me investigate this further.
+customer: I tried that but it didn't work.
+ai_assistant: I understand your concern. Let me help you resolve this right away.
+customer: This didn't help. I'm still having the same issue."
+60,SmartWatch Pro X1,hardware_defect,speaker has crackling sound,True,positive,5,5,"customer: Hi, I'm having issues with my SmartWatch Pro X1. The speaker has crackling sound.
+ai_assistant: Thank you for reaching out! I'll guide you through the solution step by step.
+customer: Okay, I'll try that now.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Thank you! That worked perfectly!"
+61,Wireless Earbuds Z2,battery_drain,battery percentage drops fast,True,positive,5,7,"customer: Hi, I'm having issues with my Wireless Earbuds Z2. The battery percentage drops fast.
+ai_assistant: Great question! I have the perfect solution for you.
+customer: I'm still experiencing the same problem.
+ai_assistant: Great question! I have the perfect solution for you.
+customer: That makes sense, let me check.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Excellent support! Problem solved."
+62,4K Camera Drone,performance,device is very slow,True,positive,4,5,"customer: Hi, I'm having issues with my 4K Camera Drone. The device is very slow.
+ai_assistant: Thank you for reaching out! I'll guide you through the solution step by step.
+customer: This is frustrating. Nothing seems to work.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Excellent support! Problem solved."
+63,Fitness Tracker Band,battery_drain,battery life is poor,True,positive,5,5,"customer: Hi, I'm having issues with my Fitness Tracker Band. The battery life is poor.
+ai_assistant: Thank you for reaching out! I'll guide you through the solution step by step.
+customer: I tried that but it didn't work.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Perfect! I appreciate your assistance."
+64,Fitness Tracker Band,performance,processing delay,True,positive,5,7,"customer: Hi, I'm having issues with my Fitness Tracker Band. The processing delay.
+ai_assistant: I appreciate your patience. This is a common issue with an easy fix.
+customer: This is frustrating. Nothing seems to work.
+ai_assistant: I understand your concern. Let me help you resolve this right away.
+customer: This is frustrating. Nothing seems to work.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Thank you! That worked perfectly!"
+65,Fitness Tracker Band,connectivity,pairing issues with phone,False,negative,2,7,"customer: Hi, I'm having issues with my Fitness Tracker Band. The pairing issues with phone.
+ai_assistant: I don't have enough information to help with this.
+customer: I tried that but it didn't work.
+ai_assistant: I'll need some more information to assist you better.
+customer: This is frustrating. Nothing seems to work.
+ai_assistant: Let me investigate this further.
+customer: I'm disappointed. The problem persists."
+66,SmartWatch Pro X1,battery_drain,battery life is poor,False,negative,2,9,"customer: Hi, I'm having issues with my SmartWatch Pro X1. The battery life is poor.
+ai_assistant: That's unusual. I haven't encountered this before.
+customer: I tried that but it didn't work.
+ai_assistant: Great question! I have the perfect solution for you.
+customer: This is frustrating. Nothing seems to work.
+ai_assistant: I understand your concern. Let me help you resolve this right away.
+customer: This is frustrating. Nothing seems to work.
+ai_assistant: I appreciate your patience. This is a common issue with an easy fix.
+customer: This is unacceptable. The issue is not resolved."
+67,Smart Home Hub,battery_drain,battery drains too quickly,False,negative,1,9,"customer: Hi, I'm having issues with my Smart Home Hub. The battery drains too quickly.
+ai_assistant: I'm not sure about that. Maybe try restarting?
+customer: I tried that but it didn't work.
+ai_assistant: Please hold on while I find the best solution for you.
+customer: Okay, I'll try that now.
+ai_assistant: I see the issue. Let me check our troubleshooting guide.
+customer: This is frustrating. Nothing seems to work.
+ai_assistant: I understand your concern. Let me help you resolve this right away.
+customer: I'm disappointed. The problem persists."
+68,Smart Home Hub,performance,processing delay,False,negative,2,7,"customer: Hi, I'm having issues with my Smart Home Hub. The processing delay.
+ai_assistant: I don't have enough information to help with this.
+customer: This is frustrating. Nothing seems to work.
+ai_assistant: Great question! I have the perfect solution for you.
+customer: I tried that but it didn't work.
+ai_assistant: Great question! I have the perfect solution for you.
+customer: This is unacceptable. The issue is not resolved."
+69,Laptop UltraBook 15,software_bug,app crashes frequently,False,negative,2,9,"customer: Hi, I'm having issues with my Laptop UltraBook 15. The app crashes frequently.
+ai_assistant: I don't have enough information to help with this.
+customer: This is frustrating. Nothing seems to work.
+ai_assistant: Great question! I have the perfect solution for you.
+customer: That makes sense, let me check.
+ai_assistant: I appreciate your patience. This is a common issue with an easy fix.
+customer: Yes, I can see some improvement.
+ai_assistant: I see the issue. Let me check our troubleshooting guide.
+customer: This didn't help. I'm still having the same issue."
+70,Laptop UltraBook 15,software_bug,update failed,True,positive,5,11,"customer: Hi, I'm having issues with my Laptop UltraBook 15. The update failed.
+ai_assistant: I understand your concern. Let me help you resolve this right away.
+customer: This is frustrating. Nothing seems to work.
+ai_assistant: Great question! I have the perfect solution for you.
+customer: I'm still experiencing the same problem.
+ai_assistant: I see the issue. Let me check our troubleshooting guide.
+customer: Okay, I'll try that now.
+ai_assistant: Thank you for reaching out! I'll guide you through the solution step by step.
+customer: Yes, I can see some improvement.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Perfect! I appreciate your assistance."
+71,SmartWatch Pro X1,connectivity,pairing issues with phone,True,positive,4,9,"customer: Hi, I'm having issues with my SmartWatch Pro X1. The pairing issues with phone.
+ai_assistant: Great question! I have the perfect solution for you.
+customer: This is frustrating. Nothing seems to work.
+ai_assistant: Great question! I have the perfect solution for you.
+customer: I tried that but it didn't work.
+ai_assistant: I see the issue. Let me check our troubleshooting guide.
+customer: This is frustrating. Nothing seems to work.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Great, it's working now. Thanks for your help!"
+72,Laptop UltraBook 15,performance,device is very slow,True,positive,5,5,"customer: Hi, I'm having issues with my Laptop UltraBook 15. The device is very slow.
+ai_assistant: Thank you for reaching out! I'll guide you through the solution step by step.
+customer: I tried that but it didn't work.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Thank you! That worked perfectly!"
+73,Fitness Tracker Band,connectivity,network connection unstable,False,negative,2,9,"customer: Hi, I'm having issues with my Fitness Tracker Band. The network connection unstable.
+ai_assistant: I'm not sure about that. Maybe try restarting?
+customer: I'm still experiencing the same problem.
+ai_assistant: Great question! I have the perfect solution for you.
+customer: I'm still experiencing the same problem.
+ai_assistant: I'll need some more information to assist you better.
+customer: I'm still experiencing the same problem.
+ai_assistant: Let me investigate this further.
+customer: I'm disappointed. The problem persists."
+74,4K Camera Drone,performance,lag during operation,False,negative,2,9,"customer: Hi, I'm having issues with my 4K Camera Drone. The lag during operation.
+ai_assistant: I don't have enough information to help with this.
+customer: That makes sense, let me check.
+ai_assistant: I understand your concern. Let me help you resolve this right away.
+customer: I tried that but it didn't work.
+ai_assistant: I understand your concern. Let me help you resolve this right away.
+customer: This is frustrating. Nothing seems to work.
+ai_assistant: I understand your concern. Let me help you resolve this right away.
+customer: I'm disappointed. The problem persists."
+75,Smart Home Hub,performance,processing delay,True,positive,5,11,"customer: Hi, I'm having issues with my Smart Home Hub. The processing delay.
+ai_assistant: Great question! I have the perfect solution for you.
+customer: That makes sense, let me check.
+ai_assistant: I'll need some more information to assist you better.
+customer: This is frustrating. Nothing seems to work.
+ai_assistant: I'll need some more information to assist you better.
+customer: Yes, I can see some improvement.
+ai_assistant: I appreciate your patience. This is a common issue with an easy fix.
+customer: Okay, I'll try that now.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Thank you! That worked perfectly!"
+76,Laptop UltraBook 15,hardware_defect,speaker has crackling sound,True,positive,5,7,"customer: Hi, I'm having issues with my Laptop UltraBook 15. The speaker has crackling sound.
+ai_assistant: Great question! I have the perfect solution for you.
+customer: I tried that but it didn't work.
+ai_assistant: Let me investigate this further.
+customer: Yes, I can see some improvement.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Thank you! That worked perfectly!"
+77,Smart Home Hub,battery_drain,battery percentage drops fast,True,positive,5,7,"customer: Hi, I'm having issues with my Smart Home Hub. The battery percentage drops fast.
+ai_assistant: Great question! I have the perfect solution for you.
+customer: This is frustrating. Nothing seems to work.
+ai_assistant: Let me investigate this further.
+customer: I tried that but it didn't work.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Excellent support! Problem solved."
+78,Laptop UltraBook 15,performance,processing delay,True,positive,4,9,"customer: Hi, I'm having issues with my Laptop UltraBook 15. The processing delay.
+ai_assistant: Great question! I have the perfect solution for you.
+customer: That makes sense, let me check.
+ai_assistant: Great question! I have the perfect solution for you.
+customer: Yes, I can see some improvement.
+ai_assistant: I see the issue. Let me check our troubleshooting guide.
+customer: Yes, I can see some improvement.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Great, it's working now. Thanks for your help!"
+79,Fitness Tracker Band,software_bug,software freezes,False,negative,2,11,"customer: Hi, I'm having issues with my Fitness Tracker Band. The software freezes.
+ai_assistant: Please hold on while I find the best solution for you.
+customer: This is frustrating. Nothing seems to work.
+ai_assistant: Please hold on while I find the best solution for you.
+customer: I'm still experiencing the same problem.
+ai_assistant: Let me investigate this further.
+customer: This is frustrating. Nothing seems to work.
+ai_assistant: I understand your concern. Let me help you resolve this right away.
+customer: I tried that but it didn't work.
+ai_assistant: I see the issue. Let me check our troubleshooting guide.
+customer: This didn't help. I'm still having the same issue."
+80,Laptop UltraBook 15,software_bug,update failed,True,positive,4,7,"customer: Hi, I'm having issues with my Laptop UltraBook 15. The update failed.
+ai_assistant: Great question! I have the perfect solution for you.
+customer: Yes, I can see some improvement.
+ai_assistant: Let me investigate this further.
+customer: Okay, I'll try that now.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Thank you! That worked perfectly!"
+81,4K Camera Drone,hardware_defect,buttons not responding,True,positive,5,7,"customer: Hi, I'm having issues with my 4K Camera Drone. The buttons not responding.
+ai_assistant: Thank you for reaching out! I'll guide you through the solution step by step.
+customer: I'm still experiencing the same problem.
+ai_assistant: I understand your concern. Let me help you resolve this right away.
+customer: I'm still experiencing the same problem.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Thank you! That worked perfectly!"
+82,Smart Home Hub,software_bug,software freezes,True,positive,5,9,"customer: Hi, I'm having issues with my Smart Home Hub. The software freezes.
+ai_assistant: I appreciate your patience. This is a common issue with an easy fix.
+customer: This is frustrating. Nothing seems to work.
+ai_assistant: I appreciate your patience. This is a common issue with an easy fix.
+customer: This is frustrating. Nothing seems to work.
+ai_assistant: I understand your concern. Let me help you resolve this right away.
+customer: I'm still experiencing the same problem.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Great, it's working now. Thanks for your help!"
+83,Smart Home Hub,hardware_defect,screen is flickering,True,positive,4,9,"customer: Hi, I'm having issues with my Smart Home Hub. The screen is flickering.
+ai_assistant: I appreciate your patience. This is a common issue with an easy fix.
+customer: This is frustrating. Nothing seems to work.
+ai_assistant: I understand your concern. Let me help you resolve this right away.
+customer: I tried that but it didn't work.
+ai_assistant: I appreciate your patience. This is a common issue with an easy fix.
+customer: That makes sense, let me check.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Thank you! That worked perfectly!"
+84,4K Camera Drone,hardware_defect,microphone not working,False,negative,1,7,"customer: Hi, I'm having issues with my 4K Camera Drone. The microphone not working.
+ai_assistant: This might be a hardware issue. You may need to contact support.
+customer: Okay, I'll try that now.
+ai_assistant: I'll need some more information to assist you better.
+customer: Yes, I can see some improvement.
+ai_assistant: I understand your concern. Let me help you resolve this right away.
+customer: This didn't help. I'm still having the same issue."
+85,Fitness Tracker Band,battery_drain,device doesn't hold charge,False,negative,1,5,"customer: Hi, I'm having issues with my Fitness Tracker Band. The device doesn't hold charge.
+ai_assistant: This might be a hardware issue. You may need to contact support.
+customer: This is frustrating. Nothing seems to work.
+ai_assistant: Let me investigate this further.
+customer: Not satisfied with the solution provided."
+86,Laptop UltraBook 15,hardware_defect,buttons not responding,True,positive,5,9,"customer: Hi, I'm having issues with my Laptop UltraBook 15. The buttons not responding.
+ai_assistant: I appreciate your patience. This is a common issue with an easy fix.
+customer: Okay, I'll try that now.
+ai_assistant: I understand your concern. Let me help you resolve this right away.
+customer: I'm still experiencing the same problem.
+ai_assistant: I understand your concern. Let me help you resolve this right away.
+customer: This is frustrating. Nothing seems to work.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Thank you! That worked perfectly!"
+87,Smart Home Hub,battery_drain,battery life is poor,False,negative,1,7,"customer: Hi, I'm having issues with my Smart Home Hub. The battery life is poor.
+ai_assistant: I don't have enough information to help with this.
+customer: Yes, I can see some improvement.
+ai_assistant: Thank you for reaching out! I'll guide you through the solution step by step.
+customer: I tried that but it didn't work.
+ai_assistant: I appreciate your patience. This is a common issue with an easy fix.
+customer: Not satisfied with the solution provided."
+88,4K Camera Drone,battery_drain,battery percentage drops fast,True,positive,4,9,"customer: Hi, I'm having issues with my 4K Camera Drone. The battery percentage drops fast.
+ai_assistant: Great question! I have the perfect solution for you.
+customer: This is frustrating. Nothing seems to work.
+ai_assistant: Thank you for reaching out! I'll guide you through the solution step by step.
+customer: I tried that but it didn't work.
+ai_assistant: I'll need some more information to assist you better.
+customer: I'm still experiencing the same problem.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Excellent support! Problem solved."
+89,4K Camera Drone,connectivity,won't connect to wifi,True,positive,5,11,"customer: Hi, I'm having issues with my 4K Camera Drone. The won't connect to wifi.
+ai_assistant: I appreciate your patience. This is a common issue with an easy fix.
+customer: This is frustrating. Nothing seems to work.
+ai_assistant: I appreciate your patience. This is a common issue with an easy fix.
+customer: I tried that but it didn't work.
+ai_assistant: Let me investigate this further.
+customer: I tried that but it didn't work.
+ai_assistant: I see the issue. Let me check our troubleshooting guide.
+customer: That makes sense, let me check.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Thank you! That worked perfectly!"
+90,SmartWatch Pro X1,connectivity,bluetooth keeps disconnecting,True,positive,5,9,"customer: Hi, I'm having issues with my SmartWatch Pro X1. The bluetooth keeps disconnecting.
+ai_assistant: Great question! I have the perfect solution for you.
+customer: Yes, I can see some improvement.
+ai_assistant: Let me investigate this further.
+customer: I'm still experiencing the same problem.
+ai_assistant: Please hold on while I find the best solution for you.
+customer: I'm still experiencing the same problem.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Excellent support! Problem solved."
+91,SmartWatch Pro X1,software_bug,software freezes,True,positive,5,7,"customer: Hi, I'm having issues with my SmartWatch Pro X1. The software freezes.
+ai_assistant: I appreciate your patience. This is a common issue with an easy fix.
+customer: I tried that but it didn't work.
+ai_assistant: Thank you for reaching out! I'll guide you through the solution step by step.
+customer: Yes, I can see some improvement.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Thank you! That worked perfectly!"
+92,Smart Home Hub,software_bug,software freezes,False,negative,1,11,"customer: Hi, I'm having issues with my Smart Home Hub. The software freezes.
+ai_assistant: Please hold on while I find the best solution for you.
+customer: This is frustrating. Nothing seems to work.
+ai_assistant: I'll need some more information to assist you better.
+customer: This is frustrating. Nothing seems to work.
+ai_assistant: I see the issue. Let me check our troubleshooting guide.
+customer: I tried that but it didn't work.
+ai_assistant: Thank you for reaching out! I'll guide you through the solution step by step.
+customer: Okay, I'll try that now.
+ai_assistant: Let me investigate this further.
+customer: This didn't help. I'm still having the same issue."
+93,4K Camera Drone,connectivity,bluetooth keeps disconnecting,False,negative,1,7,"customer: Hi, I'm having issues with my 4K Camera Drone. The bluetooth keeps disconnecting.
+ai_assistant: This might be a hardware issue. You may need to contact support.
+customer: Okay, I'll try that now.
+ai_assistant: I see the issue. Let me check our troubleshooting guide.
+customer: That makes sense, let me check.
+ai_assistant: Let me investigate this further.
+customer: Not satisfied with the solution provided."
+94,Wireless Earbuds Z2,battery_drain,battery drains too quickly,True,positive,4,9,"customer: Hi, I'm having issues with my Wireless Earbuds Z2. The battery drains too quickly.
+ai_assistant: Thank you for reaching out! I'll guide you through the solution step by step.
+customer: Yes, I can see some improvement.
+ai_assistant: Thank you for reaching out! I'll guide you through the solution step by step.
+customer: I tried that but it didn't work.
+ai_assistant: Let me investigate this further.
+customer: That makes sense, let me check.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Great, it's working now. Thanks for your help!"
+95,Fitness Tracker Band,hardware_defect,screen is flickering,False,negative,2,11,"customer: Hi, I'm having issues with my Fitness Tracker Band. The screen is flickering.
+ai_assistant: That's unusual. I haven't encountered this before.
+customer: That makes sense, let me check.
+ai_assistant: Please hold on while I find the best solution for you.
+customer: I'm still experiencing the same problem.
+ai_assistant: I'll need some more information to assist you better.
+customer: Yes, I can see some improvement.
+ai_assistant: I see the issue. Let me check our troubleshooting guide.
+customer: This is frustrating. Nothing seems to work.
+ai_assistant: I understand your concern. Let me help you resolve this right away.
+customer: This didn't help. I'm still having the same issue."
+96,SmartWatch Pro X1,hardware_defect,speaker has crackling sound,True,positive,5,5,"customer: Hi, I'm having issues with my SmartWatch Pro X1. The speaker has crackling sound.
+ai_assistant: Great question! I have the perfect solution for you.
+customer: This is frustrating. Nothing seems to work.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Thank you! That worked perfectly!"
+97,SmartWatch Pro X1,software_bug,software freezes,True,positive,4,9,"customer: Hi, I'm having issues with my SmartWatch Pro X1. The software freezes.
+ai_assistant: I appreciate your patience. This is a common issue with an easy fix.
+customer: I'm still experiencing the same problem.
+ai_assistant: I understand your concern. Let me help you resolve this right away.
+customer: I'm still experiencing the same problem.
+ai_assistant: I appreciate your patience. This is a common issue with an easy fix.
+customer: I tried that but it didn't work.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Great, it's working now. Thanks for your help!"
+98,Smart Home Hub,hardware_defect,buttons not responding,True,positive,4,11,"customer: Hi, I'm having issues with my Smart Home Hub. The buttons not responding.
+ai_assistant: Great question! I have the perfect solution for you.
+customer: I'm still experiencing the same problem.
+ai_assistant: Please hold on while I find the best solution for you.
+customer: That makes sense, let me check.
+ai_assistant: I appreciate your patience. This is a common issue with an easy fix.
+customer: That makes sense, let me check.
+ai_assistant: I understand your concern. Let me help you resolve this right away.
+customer: That makes sense, let me check.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Perfect! I appreciate your assistance."
+99,SmartWatch Pro X1,battery_drain,battery drains too quickly,True,positive,4,5,"customer: Hi, I'm having issues with my SmartWatch Pro X1. The battery drains too quickly.
+ai_assistant: I appreciate your patience. This is a common issue with an easy fix.
+customer: Okay, I'll try that now.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Excellent support! Problem solved."
+100,Fitness Tracker Band,battery_drain,battery percentage drops fast,True,positive,5,11,"customer: Hi, I'm having issues with my Fitness Tracker Band. The battery percentage drops fast.
+ai_assistant: I understand your concern. Let me help you resolve this right away.
+customer: That makes sense, let me check.
+ai_assistant: I understand your concern. Let me help you resolve this right away.
+customer: That makes sense, let me check.
+ai_assistant: Please hold on while I find the best solution for you.
+customer: Yes, I can see some improvement.
+ai_assistant: I'll need some more information to assist you better.
+customer: Okay, I'll try that now.
+ai_assistant: Perfect! Try restarting the device and the issue should be resolved.
+customer: Great, it's working now. Thanks for your help!"

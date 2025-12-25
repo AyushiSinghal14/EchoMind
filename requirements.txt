@@ -1,0 +1,12 @@
+streamlit
+huggingface-hub
+onnxruntime
+scikit-learn
+pandas
+numpy
+sentencepiece
+matplotlib
+transformers
+torch
+sns
+seaborn
